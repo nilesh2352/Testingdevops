@@ -1,4 +1,1 @@
-# Testingdevops
-#nilesh gupta
-this is devops
-
+Hi this is first lecture 
